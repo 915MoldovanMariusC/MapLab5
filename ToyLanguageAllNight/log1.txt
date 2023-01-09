@@ -1,0 +1,424 @@
+ID: 0
+EXE STACK:
+(inta;(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+inta
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+inta
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+openRFile(Model.Expression.ValueExp@30dae81)
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+openRFile(Model.Expression.ValueExp@30dae81)
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Read(Model.Expression.ValueExp@1b2c6ec2,a)
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Read(Model.Expression.ValueExp@1b2c6ec2,a)
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(inta;(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+inta
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+inta
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@30dae81);(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f)))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+openRFile(Model.Expression.ValueExp@30dae81)
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+openRFile(Model.Expression.ValueExp@30dae81)
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+(Read(Model.Expression.ValueExp@1b2c6ec2,a);Close(Model.Expression.ValueExp@79fc0f2f))
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Read(Model.Expression.ValueExp@1b2c6ec2,a)
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Read(Model.Expression.ValueExp@1b2c6ec2,a)
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+Close(Model.Expression.ValueExp@79fc0f2f)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
+ID: 0
+EXE STACK:
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+HEAP
+
+ ---- 
+
